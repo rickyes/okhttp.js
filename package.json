@@ -1,0 +1,22 @@
+{
+  "name": "ok-http",
+  "version": "0.0.1",
+  "description": "A minimalist HTTP library for Node.js, inspired by Android to OKhttp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyes/ok-http.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Ricky 泽阳",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickyes/ok-http/issues"
+  },
+  "homepage": "https://github.com/rickyes/ok-http#readme"
+}
